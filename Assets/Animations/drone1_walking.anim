@@ -1,0 +1,1437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: drone1_walking
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 69.176, y: -9.868, z: 17.294}
+        outSlope: {x: 0, y: 0, z: -74.838005}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0, y: 0, z: -37.419003}
+        inSlope: {x: -0, y: -0, z: -74.838005}
+        outSlope: {x: -69.176, y: 9.868, z: 57.544006}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -34.588, y: 4.934, z: -8.647}
+        inSlope: {x: -69.176, y: 9.868, z: 57.544006}
+        outSlope: {x: 69.176, y: -9.868, z: 17.294}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 69.176, y: -9.868, z: 17.294}
+        outSlope: {x: 0, y: 0, z: -74.838005}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -60.234, y: -15.112, z: 14.93}
+        outSlope: {x: 0, y: 0, z: 35.134003}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0, y: 0, z: 17.567001}
+        inSlope: {x: -0, y: -0, z: 35.134003}
+        outSlope: {x: 60.234, y: 15.112, z: -50.064003}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 30.117, y: 7.556, z: -7.465}
+        inSlope: {x: 60.234, y: 15.112, z: -50.064003}
+        outSlope: {x: -60.234, y: -15.112, z: 14.93}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -60.234, y: -15.112, z: 14.93}
+        outSlope: {x: 0, y: 0, z: 35.134003}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 30.703001}
+        inSlope: {x: 2.176, y: -0, z: 61.406002}
+        outSlope: {x: 45.77, y: 0, z: -61.406002}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 22.885, y: 0, z: 0}
+        inSlope: {x: 45.77, y: -0, z: -61.406002}
+        outSlope: {x: -47.946, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -1.088, y: 0, z: 0}
+        inSlope: {x: -47.946, y: -0, z: -0}
+        outSlope: {x: 2.176, y: 0, z: 61.406002}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: 30.703001}
+        inSlope: {x: 2.176, y: -0, z: 61.406002}
+        outSlope: {x: 45.77, y: 0, z: -61.406002}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: -38.516003}
+        inSlope: {x: -4.9880004, y: -0, z: -77.032005}
+        outSlope: {x: -56.792004, y: 0, z: 77.032005}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -28.396002, y: 0, z: 0}
+        inSlope: {x: -56.792004, y: -0, z: 77.032005}
+        outSlope: {x: 61.780003, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 2.4940002, y: 0, z: 0}
+        inSlope: {x: 61.780003, y: -0, z: -0}
+        outSlope: {x: -4.9880004, y: 0, z: -77.032005}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: -38.516003}
+        inSlope: {x: -4.9880004, y: -0, z: -77.032005}
+        outSlope: {x: -56.792004, y: 0, z: 77.032005}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: -29.215002}
+        inSlope: {x: -41.016003, y: 20.692001, z: -3.382}
+        outSlope: {x: 0, y: 0, z: 45.004005}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0, y: 0, z: -6.7130003}
+        inSlope: {x: -0, y: -0, z: 45.004005}
+        outSlope: {x: 41.016003, y: -20.692001, z: -41.622}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 20.508001, y: -10.346001, z: -27.524002}
+        inSlope: {x: 41.016003, y: -20.692001, z: -41.622}
+        outSlope: {x: -41.016003, y: 20.692001, z: -3.382}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: -29.215002}
+        inSlope: {x: -41.016003, y: 20.692001, z: -3.382}
+        outSlope: {x: 0, y: 0, z: 45.004005}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 23.977001}
+        inSlope: {x: 59.494003, y: 28.760002, z: -6.698002}
+        outSlope: {x: 0, y: 0, z: -48.546}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0, y: 0, z: -0.296}
+        inSlope: {x: -0, y: -0, z: -48.546}
+        outSlope: {x: -59.494003, y: -28.760002, z: 55.244003}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -29.747002, y: -14.380001, z: 27.326002}
+        inSlope: {x: -59.494003, y: -28.760002, z: 55.244003}
+        outSlope: {x: 59.494003, y: 28.760002, z: -6.698002}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: 23.977001}
+        inSlope: {x: 59.494003, y: 28.760002, z: -6.698002}
+        outSlope: {x: 0, y: 0, z: -48.546}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: -1.434}
+        inSlope: {x: -11.400001, y: -9.440001, z: 72.68201}
+        outSlope: {x: 48.504, y: -14.556001, z: -64.69}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 24.252, y: -7.2780004, z: -33.779003}
+        inSlope: {x: 48.504, y: -14.556001, z: -64.69}
+        outSlope: {x: -37.104, y: 23.996002, z: -7.991997}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 5.7000003, y: 4.7200003, z: -37.775}
+        inSlope: {x: -37.104, y: 23.996002, z: -7.991997}
+        outSlope: {x: -11.400001, y: -9.440001, z: 72.68201}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: -1.434}
+        inSlope: {x: -11.400001, y: -9.440001, z: 72.68201}
+        outSlope: {x: 48.504, y: -14.556001, z: -64.69}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: -20.121}
+        inSlope: {x: -5.6740003, y: 4.07, z: -83.114}
+        outSlope: {x: -39.02, y: -22.266, z: 85.808}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -19.51, y: -11.133, z: 22.783}
+        inSlope: {x: -39.02, y: -22.266, z: 85.808}
+        outSlope: {x: 44.694, y: 18.196001, z: -2.6940002}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 2.8370001, y: -2.035, z: 21.436}
+        inSlope: {x: 44.694, y: 18.196001, z: -2.6940002}
+        outSlope: {x: -5.6740003, y: 4.07, z: -83.114}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: -20.121}
+        inSlope: {x: -5.6740003, y: 4.07, z: -83.114}
+        outSlope: {x: -39.02, y: -22.266, z: 85.808}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Drone Leg8
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 706ba36e65d9c474ca3f416c807dbbc9, type: 2}
+    - time: 0.25
+      value: {fileID: 2100000, guid: 9bce7a64556fb6a48a20315acd5143f0, type: 2}
+    - time: 0.75
+      value: {fileID: 2100000, guid: 706ba36e65d9c474ca3f416c807dbbc9, type: 2}
+    - time: 1.25
+      value: {fileID: 2100000, guid: 9bce7a64556fb6a48a20315acd5143f0, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: Sphere.009
+    classID: 23
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3951452805
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 92799913
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2625720851
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1977808678
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 48613296
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3974866588
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2615973386
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2085927693
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1752668469
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 2100000, guid: 706ba36e65d9c474ca3f416c807dbbc9, type: 2}
+    - {fileID: 2100000, guid: 9bce7a64556fb6a48a20315acd5143f0, type: 2}
+    - {fileID: 2100000, guid: 706ba36e65d9c474ca3f416c807dbbc9, type: 2}
+    - {fileID: 2100000, guid: 9bce7a64556fb6a48a20315acd5143f0, type: 2}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 69.176
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: -69.176
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -34.588
+        inSlope: -69.176
+        outSlope: 69.176
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 69.176
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -9.868
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: 9.868
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 4.934
+        inSlope: 9.868
+        outSlope: -9.868
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -9.868
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 17.294
+        outSlope: -74.838005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -37.419003
+        inSlope: -74.838005
+        outSlope: 57.544006
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -8.647
+        inSlope: 57.544006
+        outSlope: 17.294
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 17.294
+        outSlope: -74.838005
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -60.234
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: 60.234
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 30.117
+        inSlope: 60.234
+        outSlope: -60.234
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -60.234
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -15.112
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: 15.112
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 7.556
+        inSlope: 15.112
+        outSlope: -15.112
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -15.112
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 14.93
+        outSlope: 35.134003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 17.567001
+        inSlope: 35.134003
+        outSlope: -50.064003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -7.465
+        inSlope: -50.064003
+        outSlope: 14.93
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 14.93
+        outSlope: 35.134003
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 2.176
+        outSlope: 45.77
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 22.885
+        inSlope: 45.77
+        outSlope: -47.946
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -1.088
+        inSlope: -47.946
+        outSlope: 2.176
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 2.176
+        outSlope: 45.77
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 30.703001
+        inSlope: 61.406002
+        outSlope: -61.406002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -61.406002
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: -0
+        outSlope: 61.406002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 30.703001
+        inSlope: 61.406002
+        outSlope: -61.406002
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -4.9880004
+        outSlope: -56.792004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -28.396002
+        inSlope: -56.792004
+        outSlope: 61.780003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 2.4940002
+        inSlope: 61.780003
+        outSlope: -4.9880004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -4.9880004
+        outSlope: -56.792004
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -38.516003
+        inSlope: -77.032005
+        outSlope: 77.032005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: 77.032005
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: -0
+        outSlope: -77.032005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: -38.516003
+        inSlope: -77.032005
+        outSlope: 77.032005
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -41.016003
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: 41.016003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 20.508001
+        inSlope: 41.016003
+        outSlope: -41.016003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -41.016003
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 20.692001
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: -20.692001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -10.346001
+        inSlope: -20.692001
+        outSlope: 20.692001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 20.692001
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -29.215002
+        inSlope: -3.382
+        outSlope: 45.004005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -6.7130003
+        inSlope: 45.004005
+        outSlope: -41.622
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -27.524002
+        inSlope: -41.622
+        outSlope: -3.382
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: -29.215002
+        inSlope: -3.382
+        outSlope: 45.004005
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 59.494003
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: -59.494003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -29.747002
+        inSlope: -59.494003
+        outSlope: 59.494003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 59.494003
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 28.760002
+        outSlope: 0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: -0
+        outSlope: -28.760002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -14.380001
+        inSlope: -28.760002
+        outSlope: 28.760002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 28.760002
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 23.977001
+        inSlope: -6.698002
+        outSlope: -48.546
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.296
+        inSlope: -48.546
+        outSlope: 55.244003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 27.326002
+        inSlope: 55.244003
+        outSlope: -6.698002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 23.977001
+        inSlope: -6.698002
+        outSlope: -48.546
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -11.400001
+        outSlope: 48.504
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 24.252
+        inSlope: 48.504
+        outSlope: -37.104
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 5.7000003
+        inSlope: -37.104
+        outSlope: -11.400001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -11.400001
+        outSlope: 48.504
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -9.440001
+        outSlope: -14.556001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -7.2780004
+        inSlope: -14.556001
+        outSlope: 23.996002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 4.7200003
+        inSlope: 23.996002
+        outSlope: -9.440001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -9.440001
+        outSlope: -14.556001
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.434
+        inSlope: 72.68201
+        outSlope: -64.69
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -33.779003
+        inSlope: -64.69
+        outSlope: -7.991997
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -37.775
+        inSlope: -7.991997
+        outSlope: 72.68201
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: -1.434
+        inSlope: 72.68201
+        outSlope: -64.69
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -5.6740003
+        outSlope: -39.02
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -19.51
+        inSlope: -39.02
+        outSlope: 44.694
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 2.8370001
+        inSlope: 44.694
+        outSlope: -5.6740003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -5.6740003
+        outSlope: -39.02
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Drone Leg8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 4.07
+        outSlope: -22.266
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: -11.133
+        inSlope: -22.266
+        outSlope: 18.196001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: -2.035
+        inSlope: 18.196001
+        outSlope: 4.07
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 4.07
+        outSlope: -22.266
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Drone Leg8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -20.121
+        inSlope: -83.114
+        outSlope: 85.808
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.5
+        value: 22.783
+        inSlope: 85.808
+        outSlope: -2.6940002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 21.436
+        inSlope: -2.6940002
+        outSlope: -83.114
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.5
+        value: -20.121
+        inSlope: -83.114
+        outSlope: 85.808
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Drone Leg8
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Drone Leg8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Drone Leg8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Drone Leg8
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
